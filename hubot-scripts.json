@@ -1,1 +1,9 @@
-["shipit.coffee"]
+[
+    "github-status.coffee",
+    "bitbucket-activity.coffee",
+    "trello.coffee","travis.coffee",
+    "xkcd.coffee",
+    "shipit.coffee"
+]
+
+
